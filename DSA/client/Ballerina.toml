@@ -1,8 +1,8 @@
 [package]
-org = "chris"
+org = "ponti"
 name = "client"
 version = "0.1.0"
-distribution = "2201.7.0"
+distribution = "2201.7.2"
 
 [build-options]
 observabilityIncluded = true
